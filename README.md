@@ -5,7 +5,7 @@ This dashboard displays sales, customers, product performance, marketing insight
 
 ## 🔗 Live Demo
 
-👉 **Live URL:** *Add your live link here*
+👉 **Live URL:** *(https://nishansanjeewa.github.io/e-commerce-sales-dashboard-host/)*
 
 ---
 
